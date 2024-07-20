@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.chatgptbuilder.io/webchat/?p=1328171&ref=1710168282105/$1"
+ }
+  ]
+}
